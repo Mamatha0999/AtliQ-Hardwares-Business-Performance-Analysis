@@ -4,9 +4,9 @@ Sales Report
 
 Project Objectives
 
-1.	Develop a detailed Sales Performance Report.
+1.	Develop a detailed Sales Performance Report. https://github.com/Mamatha0999/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Total%20sales%20report%20-%20All%20regions.pdf
 
-2.	Perform an in-depth comparison using the Market Performance vs Target Report.
+2.	Perform an in-depth comparison using the Market Performance vs Target Report. https://github.com/Mamatha0999/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
 Purpose
 
@@ -32,7 +32,7 @@ Finance Report
 
 Project Objectives
 
-1.	Build Profit & Loss reports segmented by Fiscal Year.
+1.	Build Profit & Loss reports segmented by Fiscal Year. https://github.com/Mamatha0999/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Fiscal%20Year%20-%20P%26L.pdf
 
 2.	Create Profit & Loss reports based on Market Performance vs Target.
 
